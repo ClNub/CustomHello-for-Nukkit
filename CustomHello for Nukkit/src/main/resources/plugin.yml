@@ -1,0 +1,6 @@
+name: CustomHello
+main: cn.nukkit.yotuba.CustomHello.Main
+version: 1.0.0
+author: yotuba
+api: ["1.0.0"]
+description: Join,Quit時の表示を変更できます
